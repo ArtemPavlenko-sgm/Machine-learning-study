@@ -3,7 +3,7 @@ Deep dive into classic Machine Learning algorithms and concepts.
 
 ### 1. Калибровка вероятностей логистической регрессии
 
-* **Ссылка на проект:** [`LogReg_Calibration.ipynb`](./LogReg_Calibration.ipynb.ipynb)
+* **Ссылка на проект:** [LogReg_Calibration.ipynb](https://github.com/ArtemPavlenko-sgm/Machine-learning-study/blob/main/LogReg_Calibration.ipynb)
 * **Цель проекта:** Оценить корректность работы метода predict_proba в логистической регрессии при решении задачи бинарной классификации
 * **Ключевые этапы реализации:**
   * Проведен анализ на несбалансированном наборе данных.
